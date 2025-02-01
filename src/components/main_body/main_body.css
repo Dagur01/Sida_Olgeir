@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.button_container{
+    display: flex;
+    max-width: 50vw;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+button{
+    border-radius: 20px;
+    height: 3rem;
+    width: 12rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

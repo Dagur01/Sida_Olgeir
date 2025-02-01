@@ -1,0 +1,7 @@
+.footer{
+    max-height: 5vh;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

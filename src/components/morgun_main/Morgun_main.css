@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.checklist_container{
+    max-width: 1600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.task{
+    display: flex;
+    max-width: 4rem;
+    margin: 1rem;
+}
+
+p{
+    margin-left: 0.5rem;
+}
